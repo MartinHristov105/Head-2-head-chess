@@ -8,6 +8,7 @@ This is homework 1 part of the Head 2 Head project for the course WebTech at FMI
 HW1/
 
 ├── index.html/        # HTML файл
+
 ├── script.js/         # Javascript файл
 └── style.css/         # CSS файл
 ├── audio/
